@@ -7,6 +7,8 @@ package Exercise;
 /**
  *
  * @author Priyanka
+ * Write a program that displays Welcome to Java,
+   Welcome to Computer Science, and Programming is fun.
  */
 public class Ex1_1 {
     
